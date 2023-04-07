@@ -7,6 +7,9 @@
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) 项目的 Java 后台，最新代码在 main 分支
 - 该分支关联项目的 [2.10.8](https://github.com/Chanzhaoyu/chatgpt-web/releases/tag/v2.10.8) 版本，在不改动前端的情况下更新后台
 - 管理端开源代码 https://github.com/hncboy/chatgpt-web-admin
+- 
+# Open in Gitpod
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/biostome/chatgpt-web-java)
 
 # 注意
 
